@@ -69,4 +69,5 @@ if zahl==ratezahl:
 print("Du hast verloren")
 print("Die Zahl war: ")
 print(ratezahl)
+print("created by RLN")
 input(exit)
